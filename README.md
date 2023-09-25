@@ -92,8 +92,8 @@ ATRr_14            105.609088
 
 ## Upcoming Projects
 
-- [Finding Features with XGBoost](<link-to-repo2>): Training and evaluating an XGBoost classifier on the Bitcoin technical indicators dataset. It aims to predict trading signals (like 'long', 'short', or 'neutral') based on the values of various indicators.
-- [Hyperoptimize XGB Model](<link-to-repo3>): Up Comming...
+- [Finding Features with XGBoost](https://github.com/tzelalouzeir/XGBoost_Indicators_2): Training and evaluating an XGBoost classifier on the Bitcoin technical indicators dataset. It aims to predict trading signals (like 'long', 'short', or 'neutral') based on the values of various indicators.
+- [XGBoost Model Optimization](https://github.com/tzelalouzeir/XGBoost_Indicators_3): Up Comming...
 
 ## 🤝 Let's Connect!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tzelalouzeir/).
