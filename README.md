@@ -92,6 +92,16 @@ ATRr_14            105.609088
 
 ## Upcoming Projects
 
-- [Repo2](<link-to-repo2>): Short description of Repo2.
-- [Repo3](<link-to-repo3>): Short description of Repo3.
+- [Finding Features with XGBoost](<link-to-repo2>): Up Comming...
+- [Hyperoptimize XGB Model](<link-to-repo3>): Up Comming...
+
+## 🤝 Let's Connect!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tzelalouzeir/).
+
+For more insights into my work, check out my latest project: [tafou.io](https://tafou.io).
+
+I'm always eager to learn, share, and collaborate. If you have experiences, insights, or thoughts about RL, Prophet, XGBoost, SARIMA, ARIMA, or even simple Linear Regression in the domain of forecasting, please create an issue, drop a comment, or even better, submit a PR! 
+
+_Let's learn and grow together!_ 🌱
+
 
