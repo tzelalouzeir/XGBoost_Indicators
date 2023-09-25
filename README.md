@@ -90,10 +90,10 @@ CCI_20_0.015       -27.087475
 ATRr_14            105.609088
 ```
 
-## Upcoming Projects
+## Related Projects
 
 - [Finding Features with XGBoost](https://github.com/tzelalouzeir/XGBoost_Indicators_2): Training and evaluating an XGBoost classifier on the Bitcoin technical indicators dataset. It aims to predict trading signals (like 'long', 'short', or 'neutral') based on the values of various indicators.
-- [XGBoost Model Optimization](https://github.com/tzelalouzeir/XGBoost_Indicators_3): Up Comming...
+- [XGBoost Model Optimization](https://github.com/tzelalouzeir/XGBoost_Indicators_3): Optimizing the hyperparameters of an XGBoost classifier using the hyperopt library.
 
 ## 🤝 Let's Connect!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tzelalouzeir/).
